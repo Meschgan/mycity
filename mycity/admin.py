@@ -3,4 +3,3 @@ from mycity.models import Citizen
 
 admin.site.register(Citizen)
 
-# Register your models here.
